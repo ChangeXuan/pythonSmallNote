@@ -8,3 +8,5 @@ import sys
 reload(sys)
 sys.setdefaultencoding('xxx')//xxx = gbk | gb2312 |utf-8
 ```
+
+- python使用bin()转换成二进制后会在二进制的前边添加'0b'
